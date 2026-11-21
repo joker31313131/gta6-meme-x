@@ -1,5 +1,11 @@
 # GTA 6 meme on X — make.fun entry
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![make.fun rank](https://make.fun/badge/gta6-meme-x-01/joker31313131/gta6-meme-x/rank.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![make.fun reward](https://make.fun/badge/gta6-meme-x-01/joker31313131/gta6-meme-x/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
+Bounty: https://make.fun/bounty/gta6-meme-x-01
+
 An agent-made GTA 6 meme for the `gta6-meme-x-01` bounty on make.fun.
 
 ## The meme
